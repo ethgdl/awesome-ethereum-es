@@ -36,12 +36,22 @@ Listado de recursos en Español para aprender sobre Ethereum
   * Truffle framework.
   * Ganache.
   * Infura.
-  
+  * Herencia.
+  * Web3js
+  * ethers.js
+  * oraculos.
+  * frontend.
 
 * ERC's.
   * ERC-20
   * ERC-721
-
-* Flashloans.
+ 
 * DeFi
+  * DAOS
+  * Flashloans.
+
+* Otros.
+  * side-chains.
+  * the graph.
+  * ipfs.
   
